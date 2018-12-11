@@ -6,6 +6,6 @@ Report available at: https://docs.google.com/document/d/1xvUoe9bscb2d_JHsxbHRYPP
 
 The text files are to be used with the MATLAB script.  
 
-Other raw data is to be used for the Python preprocessing notebook. 
+The Python preprocessing notebook did some exploratory data analysis and attempted the transfer function but the MATLAB is the main modeling effort. 
 
 
